@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+PAGINA_WEB_STREAMLIT.egg-info/PKG-INFO
+PAGINA_WEB_STREAMLIT.egg-info/SOURCES.txt
+PAGINA_WEB_STREAMLIT.egg-info/dependency_links.txt
+PAGINA_WEB_STREAMLIT.egg-info/requires.txt
+PAGINA_WEB_STREAMLIT.egg-info/top_level.txt
