@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+mi_paquete.egg-info/PKG-INFO
+mi_paquete.egg-info/SOURCES.txt
+mi_paquete.egg-info/dependency_links.txt
+mi_paquete.egg-info/requires.txt
+mi_paquete.egg-info/top_level.txt
