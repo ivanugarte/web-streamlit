@@ -3,10 +3,10 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mi_paquete"
+name = "PAGINA-WEB-STREAMLIT"
 version = "0.1.0"
 authors = [
-    {name="Tu Nombre", email="tu@email.com"},
+    {name="ivan ugarte", email="ivamugartem@gmail.com"},
 ]
 description = "Descripción de mi paquete"
 requires-python = ">=3.8"
